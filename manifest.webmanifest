@@ -1,0 +1,11 @@
+{
+  "name": "WETU – Desafio do Contabilista",
+  "short_name": "WETU",
+  "description": "Jogo de perguntas de Contabilidade, Fiscalidade Angolana, R.H., Auditoria, Finanças e Economia.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06162f",
+  "theme_color": "#071b3d",
+  "lang": "pt",
+  "orientation": "portrait"
+}
